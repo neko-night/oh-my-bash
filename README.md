@@ -25,3 +25,5 @@ and then put the following line in your .bashrc
 and then you upload your new theme with
 
 source ~/.bashrc
+
+![oh-my-bash](./nekonight-bash.jpg)
